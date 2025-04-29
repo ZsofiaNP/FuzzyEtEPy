@@ -1,7 +1,11 @@
 # FuzzyEtEPy
 
-**FuzzyEtEPy** is a collection of Jupyter notebooks that provides a Python-based end-to-end solution for creating, simulating, and training Fuzzy Cognitive Maps (FCMs).  
+**FuzzyEtEPy** is a collection of Jupyter notebooks that provides a reusable Python-based end-to-end solution for creating, simulating, and training Fuzzy Cognitive Maps (FCMs).  
 The workflow includes data normalization, correlation-based weight matrix creation from historical data, and tools for visualizing and simulating multi-layer FCMs.
+
+The example Excel data files attached and referenced in the notebooks were created as part of the following master’s thesis case study:
+
+**Zsófia Nagy-Perjési**, *Machine Learning Methods in Data Analysis*, Master’s Thesis, Óbuda University, John von Neumann Faculty of Informatics, Budapest, Hungary, Academic Year 2024/2025. *(In print)*
 
 ## License
 
